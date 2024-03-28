@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    font-family: "kanit";
+}
+
+.nav-list:hover {
+    background-color: #cacaca;
+    box-shadow: 0px 0px 10px 1px #fff;
+    color: black;
+}
+
+#nav {
+    height: 11%;
+}
+
+
+#nav-bottom {
+    height: 89%;
+}
+
